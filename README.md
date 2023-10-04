@@ -1,3 +1,3 @@
 
-<h1 align="center"> Docker Assignment CI/CD Pipeline - SDEV200</h1>
+<h1 align="center"> CI/CD Pipeline Assignment- SDEV200</h1>
 
